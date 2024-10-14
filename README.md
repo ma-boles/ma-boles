@@ -12,13 +12,19 @@ I'm a Full-Stack developer with a love for creating innovative user-centric solu
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🔭 Current Work
-- Building **[flowmode](https://github.com/yourusername/project1)**: A web app that promotes productivity and wellness by utilizing Spotify audio.
-  - Technologies: Next.js, Tailwind CSS, MongoDB 
+- Building **[flowmode](https://github.com/ma-boles/flowmode)**: A web app that promotes productivity and wellness by utilizing Spotify audio.
+  - Technologies: Next.js, Tailwind CSS, MongoDB
 - Re-learning **Advanced JavaScript** on Scrimba.
 
+## 🌍 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mary-boles)
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me find me on LinkedIn!...
+## 😄 Fun Facts
+- I’m a life-long music enthusiast 🎧, have a love of film 🎬, and am a big fan of basketball 🏀.
+- In my free time I love DJing, record & CD shopping, and enjoy listening to podcasts.
+- I spent 6 years living in Nagoya, Japan! 🇯🇵 
+
+
 
 <!---
 ma-boles/ma-boles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
