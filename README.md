@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Mary!
-I'm a Full-Stack developer with a love for creating innovative user-centric solutions. Currenty I'm focused on building my productivity + wellness web app, flowmode.
+I'm a **Full-Stack** developer with a love for **creating innovative user-centric solutions**. Currenty I'm focused on building my productivity + wellness web app, **flowmode**.
 
 ## 🛠 Tech & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,13 +13,13 @@ I'm a Full-Stack developer with a love for creating innovative user-centric solu
 
 ## 🔭 Current Work
 - Building **[flowmode](https://github.com/ma-boles/flowmode)**: A web app that promotes productivity and wellness by utilizing Spotify audio.
-  - Technologies: Next.js, Tailwind CSS, MongoDB
+   - Technologies: **Next.js, Tailwind CSS, MongoDB**
 - Re-learning **Advanced JavaScript** on Scrimba.
 
 ## 😀 Interesting Facts
-- I’m a life-long music enthusiast 🎧, have a love of film 🎬, and am a big fan of basketball 🏀.
-- In my free time I love DJing, record & CD shopping, and enjoy listening to podcasts.
-- I spent 6 years living in Nagoya, Japan! 🇯🇵 
+- I’m a life-long **music enthusias**t 🎧, have a **love of film** 🎬, and am a big **fan of basketball** 🏀.
+- In my free time I **love DJing**, **curating playlists** on Spotify, **record & CD** shopping, and enjoy listening to **podcasts**.
+- **I spent 6 years living in Nagoya, Japan**!
 
 ## 🌍 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mary-boles)
