@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ma-boles
+- 👋 Hi, I’m Mary!
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Next.js and MongoDB.
 - 💞️ I’m looking to collaborate on ...
