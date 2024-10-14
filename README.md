@@ -16,14 +16,13 @@ I'm a Full-Stack developer with a love for creating innovative user-centric solu
   - Technologies: Next.js, Tailwind CSS, MongoDB
 - Re-learning **Advanced JavaScript** on Scrimba.
 
-## 🌍 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/mary-boles)
-
-## 😄 Fun Facts
+## 😀 Interesting Facts
 - I’m a life-long music enthusiast 🎧, have a love of film 🎬, and am a big fan of basketball 🏀.
 - In my free time I love DJing, record & CD shopping, and enjoy listening to podcasts.
 - I spent 6 years living in Nagoya, Japan! 🇯🇵 
 
+## 🌍 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mary-boles)
 
 
 <!---
