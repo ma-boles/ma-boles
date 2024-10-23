@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Mary!
-I'm a **Software Engineer** with a love for **creating innovative user-centric solutions**. Currenty I'm focused on building my productivity + wellness web app, **flowmode**.
+# 👋 Hi, I’m Mary!
+ I'm a **Software Engineer** with a love for **delivering innovative user-centric solutions**. Currenty I'm focused on building my productivity + wellness web app, **flowmode**.
 
 ## 🛠 Tech & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
