@@ -14,7 +14,7 @@
 ## 🔭 Current Work
 - Building **[flowmode](https://github.com/ma-boles/flowmode)**: A web app that promotes productivity and wellness by utilizing Spotify audio.
    - Technologies: **Next.js, Tailwind CSS, MongoDB**
-- Re-learning **Advanced JavaScript** on Scrimba.
+- Learning **SQL + MySQL** through Colt Steele's Ultimate MySQL Bootcamp course.
 
 ## 😀 Interesting Facts
 - I’m a life-long **music enthusiast** 🎧, have a love of **film** 🎬, and am a big fan of **basketball** 🏀.
