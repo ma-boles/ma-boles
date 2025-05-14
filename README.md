@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mary!
-### I'm a **Software Engineer** with a love for **delivering innovative user-centric solutions**. Currenty I'm focused on building my productivity + wellness web app, **flowmode**.
+### I'm a **Software Engineer** with a love for **delivering innovative user-centric solutions**. Currenty I'm focused on building my March Madness bracket management app, **Bracket Madness**.
 
 ## 🛠 Tech & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,10 +11,12 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🔭 Current Work
+-## 🔭 Current Work
+- Building **Bracket Madness**:  A NCAA March Madness tournament bracket management web app utilizing the ESPN api.
+  - Technologies: **Next.js, Tailwind CSS, MYSQL**  
+<!---
 - Building **[flowmode](https://github.com/ma-boles/flowmode)**: A web app that promotes productivity and wellness by utilizing Spotify audio.
-   - Technologies: **Next.js, Tailwind CSS, MongoDB**
-- Learning **SQL + MySQL** through Colt Steele's Ultimate MySQL Bootcamp course.
+   - Technologies: **Next.js, Tailwind CSS, MongoDB*** --->
 
 ## 😀 Interesting Facts
 - I’m a life-long **music enthusiast** 🎧, have a love of **film** 🎬, and am a big fan of **basketball** 🏀.
