@@ -11,7 +11,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
--## 🔭 Current Work
+## 🔭 Current Work
 - Building **Bracket Madness**:  A NCAA March Madness tournament bracket management web app utilizing the ESPN api.
   - Technologies: **Next.js, Tailwind CSS, MYSQL**  
 <!---
