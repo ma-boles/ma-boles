@@ -4,9 +4,16 @@
 ## **Off Tape** is a women's basketball media discovery platform I built from idea through deployment. It evolved from an earlier fan bracket game into a focused product for discovering stories, people, and culture around women's basketball. 
 
 Live Product: https://offtape.vercel.app/
+
 Case Study: https://docs.google.com/document/d/1Wq9LQVm6SRxg1zzUyZR4tXViZca-g8e0iyPdYu0VZKg/edit?tab=t.0
 
-## 🛠 Tech & Tools
+
+## Tech & Tools
+**Languages**: JavaScript, TypeScript, HTML/CSS
+**Frontend**: React, Next.js
+**Backend & Data**: Supabase, PostgreSQL, MySQL
+**Tools**: Git
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
