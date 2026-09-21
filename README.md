@@ -1,6 +1,11 @@
 # 👋 Hi, I’m Mary!
 ### Product-minded full-stack engineer building thoughtful, user-focused web products. I enjoy working across product, UX, and engineering to turn ideas into things people can actually use.
 
+## **Off Tape** is a women's basketball media discovery platform I built from idea through deployment. It evolved from an earlier fan bracket game into a focused product for discovering stories, people, and culture around women's basketball. 
+
+Live Product: https://offtape.vercel.app/
+Case Study: https://docs.google.com/document/d/1Wq9LQVm6SRxg1zzUyZR4tXViZca-g8e0iyPdYu0VZKg/edit?tab=t.0
+
 ## 🛠 Tech & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
