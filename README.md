@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Mary!
 ### Product-minded full-stack engineer building thoughtful, user-focused web products. I enjoy working across product, UX, and engineering to turn ideas into things people can actually use.
 
+
+---
+
+
 ## What I'm Building
 **Off Tape** is a women's basketball media discovery platform I built from idea through deployment. It evolved from an earlier fan bracket game into a focused product for discovering stories, people, and culture around women's basketball. 
 
