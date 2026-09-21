@@ -4,9 +4,7 @@
 ## What I'm Building
 **Off Tape** is a women's basketball media discovery platform I built from idea through deployment. It evolved from an earlier fan bracket game into a focused product for discovering stories, people, and culture around women's basketball. 
 
-Live Product: https://offtape.vercel.app/
-
-Case Study: https://docs.google.com/document/d/1Wq9LQVm6SRxg1zzUyZR4tXViZca-g8e0iyPdYu0VZKg/edit?tab=t.0
+[Live Product](https://offtape.vercel.app/) / [Case Study](https://docs.google.com/document/d/1Wq9LQVm6SRxg1zzUyZR4tXViZca-g8e0iyPdYu0VZKg/edit?tab=t.0)
 
 
 ## Tech & Tools
