@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mary!
-### I'm a **Software Engineer** with a love for **delivering innovative user-centric solutions**. Currenty I'm focused on building my March Madness bracket management app, **Bracket Madness**.
+### Product-minded full-stack engineer building thoughtful, user-focused web products. I enjoy working across product, UX, and engineering to turn ideas into things people can actually use.
 
 ## 🛠 Tech & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
